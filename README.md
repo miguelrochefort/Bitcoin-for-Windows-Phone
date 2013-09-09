@@ -33,6 +33,13 @@ Try it!
 
 [Get access to the beta here](http://www.windowsphone.com/en-us/store/app/bitcoin/00a26c5e-6a8b-4c47-9ffb-cf24389881f9?signin=true) (email me your email address if you need access to it).
 
+Press
+-----
+
+[Reviewed: Bitcoin apps for iPhone, Android and Windows Phone - CoinDesk](http://www.coindesk.com/bitcoin-apps-for-android-iphone-and-windows-phone)
+
+[Blockchain for Windows Phone brings Bitcoin support to the Wallet - Windows Phone Central](http://www.wpcentral.com/blockchain-windows-phone-introduces-bitcoin-support-wallet)
+
 Help
 ----
 
