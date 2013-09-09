@@ -33,6 +33,12 @@ Try it!
 
 [Get access to the beta here](http://www.windowsphone.com/en-us/store/app/bitcoin/00a26c5e-6a8b-4c47-9ffb-cf24389881f9?signin=true) (email me your email address if you need access to it).
 
+Help
+----
+
+Feel free to submit any bug report or improvement suggestion using [Github's bug tracker](https://github.com/miguelrochefort/Bitcoin-for-Windows-Phone/issues).
+
+
 Donate
 ------
 
@@ -41,8 +47,3 @@ Donate
 [1Dna3gbeg1N8XG4bm2Q7z4VpWxEGdvdeUj](bitcoin:1Dna3gbeg1N8XG4bm2Q7z4VpWxEGdvdeUj?label=Bitcoin%20for%20Windows%20Phone)
 
 (Install Bitcoin for Windows Phone v2.3.0.0 and try the link and QR code above).
-
-Help
-----
-
-Feel free to submit any bug report or improvement suggestion using [Github's bug tracker](https://github.com/miguelrochefort/Bitcoin-for-Windows-Phone/issues).
