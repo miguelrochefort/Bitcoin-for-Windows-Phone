@@ -42,8 +42,8 @@ Feel free to submit any bug report or improvement suggestion using [Github's bug
 Donate
 ------
 
-![Donation QR](http://api.qrserver.com/v1/create-qr-code/?size=150x150&data=bitcoin:1Dna3gbeg1N8XG4bm2Q7z4VpWxEGdvdeUj?label=Bitcoin%20for%20Windows%20Phone?message=Donation%20from%20Github)
+![Donation QR](http://api.qrserver.com/v1/create-qr-code/?size=150x150&data=bitcoin:1Dna3gbeg1N8XG4bm2Q7z4VpWxEGdvdeUj?label=Bitcoin%20for%20Windows%20Phone&message=Donation%20from%20Github)
 
-[1Dna3gbeg1N8XG4bm2Q7z4VpWxEGdvdeUj](http://tinyurl.com/oxrupyd)
+[1Dna3gbeg1N8XG4bm2Q7z4VpWxEGdvdeUj](http://tinyurl.com/qhqtnal)
 
 (Install Bitcoin for Windows Phone v2.3.0.0 and try the link and QR code above).
