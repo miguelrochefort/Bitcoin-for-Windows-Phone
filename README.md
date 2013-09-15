@@ -5,6 +5,8 @@ Bitcoin for Windows Phone is the best Bitcoin wallet available on Windows Phone.
 
 It supports major web wallet providers such as [Blockchain.info](https://blockchain.info) and [Coinbase.com](https://coinbase.com).
 
+It integrates right into your Wallet Hub, providing a seamless and arguably unbeatable experience.
+
 Features (as of version 2.3.0.0 [BETA])
 --------
 
@@ -23,8 +25,6 @@ Coming soon
 - Push notification.
 - Lenses.
 - Transaction detail view.
-
-It integrates right into your Wallet Hub, providing a seamless and unbeatable experience.
 
 Try it!
 -------
