@@ -7,16 +7,31 @@ It supports major web wallet providers such as [Blockchain.info](https://blockch
 
 It integrates right into the Wallet Hub, seamlessly providing the best Bitcoin experience available on any platform.
 
-Features (as of version 2.3.0.0 [BETA])
+Supported Wallet Providers
+--------------------------
+
+- Blockchain.info ("My Wallet" and private key import)
+- Coinbase.com
+
+Features
 --------
 
-- Blockchain.info support (doesn't support 2FA).
-- Coinbase.com support.
-- Private key import support.
+- Deep integration with the Windows Phone Wallet Hub.
+- View your balance.
+- View your recent transactions.
+- Send and receive money.
+- Scan QR codes.
 - Bitcoin URI Scheme support.
-- QR code scanner.
-- Bitcoin address autocompletion.
-- Address book integration (limited).
+- Limited address book integration (add a Bitcoin URI as the "website" of a contact in the People Hub).
+- Bitcoin address autocompletion (based on firstbits and/or contacts).
+- Pin-protected wallets (Windows Phone Wallet feature).
+- Pin a wallet to your start screen (Windows Phone Wallet feature).
+
+Limitations
+-----------
+
+- Two-factor authentication (2FA) is not supported for both Blockchain and Coinbase.
+- Second password is not supported in both Blockchain and Coinbase.
 
 Coming soon
 -----------
@@ -30,8 +45,6 @@ Try it!
 -------
 
 [Get the latest stable release from the Windows Phone Store here](http://www.windowsphone.com/en-us/store/app/blockchain/ca65fc5b-14f0-4da4-8e39-e2d4b702b2ea).
-
-[Get access to the beta here](http://www.windowsphone.com/en-us/store/app/bitcoin/00a26c5e-6a8b-4c47-9ffb-cf24389881f9?signin=true) (email me your email address if you need access to it).
 
 Press
 -----
@@ -53,4 +66,4 @@ Donate
 
 [1Dna3gbeg1N8XG4bm2Q7z4VpWxEGdvdeUj](http://tinyurl.com/ogytott)
 
-(Install Bitcoin for Windows Phone v2.3.0.0 and try the link and QR code above).
+(Install latest stable version of Bitcoin for Windows Phone and try the link and QR code above).
