@@ -54,3 +54,8 @@ Donate
 [1Dna3gbeg1N8XG4bm2Q7z4VpWxEGdvdeUj](http://tinyurl.com/ogytott)
 
 (Install Bitcoin for Windows Phone v2.3.0.0 and try the link and QR code above).
+
+Thanks
+------
+
+I would like to thank little_bit for his support. 
